@@ -1,0 +1,49 @@
+Folder:
+
+node_info: pixel temple matching
+output_img: the output of different image processing stage
+point_info: file contains lines' coordinates and labels
+source: the original KEGG image
+
+Python file:
+Based on the order of execution:
+Pre --> RemoveRect --> Merge_line --> Arrowheads --> Solid_dotted_line --> Check_e --> ......
+
+Pre.py : 
+Remove word, number, some rectangles and other notations; filter color
+
+RemoveRect.py: 
+remove rectangle and rounded-rectangle, smooth the edges
+
+Merge_line.py: 
+1.detect hough lines
+2.cluster the detected line into group
+3.fit new lines
+
+Arrowheads.py: 
+detect line with different arrowheads
+output text: arrow_update_point.txt
+
+Solid_dotted_line.py:
+detect Solid and Dotted lines
+output txt: hollow_line.txt
+
+Check_e.py:
+detect lines contain e
+output txt:e_cross_point.txt
+
+Check_inhibition_dissociate_line.py
+detect inhibition and dissociate line
+Note: I didn't finish all the work to classify inhibition and dissociate line
+In fact, before classifying the type, what I want to do is to repairt all the line by using 'Short_line_segment_repair.py'
+But the effect is not good. If I can merge them better, the order of execute the code now need to change:
+
+Pre --> RemoveRect --> Merge_line --> Short_line_segment_repair --> Arrowheads --> Solid_dotted_line --> Check_e --> Check_inhibition_dissociate_line
+
+Also, before executing Arrowheads.py , we need to replace this line 'with open('./point_info/merge_point1.txt') as f:' with
+'with open('./point_info/all_Line.txt') as f:' because the output file of 'Short_line_segment_repair.py' is 'all_Line.txt'
+
+
+
+
+

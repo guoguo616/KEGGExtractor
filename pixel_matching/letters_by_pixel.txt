@@ -1,0 +1,1498 @@
+>a
+ oo  
+o  o 
+ ooo 
+o..o 
+o..o 
+ oooo
+
+>b
+oo    
+ o    
+ o    
+ o oo 
+ oo  oo
+ o   o
+ o   o
+ o   o
+  ooo
+
+>b(2)
+oo
+ o
+ o
+ o oo
+ oo  o
+ o   o
+ o   o
+ o   o
+  ooo
+
+>c
+ ooo
+o  o
+o   
+o   
+o  o
+ oo 
+
+>d
+   oo 
+    o 
+    o 
+ oo o 
+o  oo 
+o   o 
+o   o 
+o   o 
+ ooooo
+
+>d(2)
+   oo 
+    o 
+    o 
+ oo o 
+o  oo 
+o   o 
+o   o 
+o  oo 
+ oo oo
+
+>e
+ oo 
+o  o
+oooo
+o   
+o  o
+ oo 
+
+>f
+  ooo
+ o  o
+ o  
+ooo 
+ o  
+ o  
+ o  
+ o  
+ooo 
+
+>g
+ oooo
+o  o 
+o  o 
+ oo  
+o    
+ ooo 
+o   o
+o   o
+ ooo 
+
+>h
+oo    
+ o    
+ o    
+ o o  
+ oo o 
+ o  o 
+ o  o 
+ o  o 
+ooo oo
+
+
+>i
+ o 
+ . 
+ . 
+oo 
+ o 
+ o 
+ o 
+ o 
+ooo
+
+> i(s)
+ o
+ .
+oo
+ o
+ o
+ o
+ooo
+
+> j
+  o
+  .
+  .
+ oo
+  o
+  o
+  o
+  o
+  o
+  o
+  o
+oo
+
+>k
+oo    
+ o    
+ o    
+ o oo 
+ o o  
+ oo   
+ o o  
+ o  o 
+ooo oo
+
+>l  # diff from d, 
+oo.
+ o.
+.o.
+.o.
+.o.
+.o.
+.o.
+ o.
+ooo
+
+>m
+oo o  o  
+ oo oo o 
+ o  o  o 
+ o  o  o 
+ o  o  o 
+ooo oo oo
+
+>n  # diff from m, 
+oo o  
+ oo o.
+ o  o 
+ o  o 
+ o  o 
+ooo oo
+
+>o
+ ooo 
+o. .o
+o   o
+o   o
+o. .o
+ ooo 
+
+>p
+oo oo 
+ oo  o
+ o   o
+ o   o
+ oo  o
+ o oo 
+ o    
+ o    
+ooo   
+
+>p(2)
+oo oo 
+ oo  o
+ o   o
+ o   o
+ o   o
+ oooo 
+ o    
+ o    
+ooo  
+
+>q
+ oo o 
+o  oo 
+o   o 
+o   o 
+o  oo 
+ oo o 
+    o 
+    o 
+   ooo
+
+>r
+oo o
+ oo ,
+ o  ,
+ o  ,
+ o  ,
+ooo ,
+
+>s
+ ooo
+o  o
+oo  
+  oo
+o  o
+ooo 
+
+>s(s)
+ oo
+o .
+oo
+. o
+oo
+
+>t
+ o 
+ o 
+ooo
+ o 
+ o 
+ o 
+ o 
+ oo
+
+>u
+oo.oo 
+ o  o 
+ o  o 
+ o  o 
+ o  o 
+ .oooo
+
+>v
+ooo  oo
+ o   o 
+  o o  
+  o o  
+   o   
+   o   
+
+>w
+oo ooo oo
+ o  o  o 
+ o  o o  
+ o oo o  
+  o  o   
+  o  o   
+
+>x
+oo oo
+ o o 
+  o  
+  o  
+ o o 
+oo oo
+
+>y
+ooo ooo
+ o   o 
+ o  o  
+  o o  
+  o o  
+   o   
+   o   
+  o    
+oo     
+
+>z
+ooooo
+o  o 
+  o  
+  o  
+ o  o
+ooooo
+
+>A
+   o    
+   o    
+  o o   
+  o o   
+  o  o  
+  oooo  
+ o    o 
+ o    o 
+ooo  ooo
+
+>B
+ooooo  
+ o   o 
+ o   o 
+ o   o 
+ oooo  
+ o    o
+ o    o
+ o    o
+oooooo 
+
+>C
+  ooo o
+ o   oo
+o     o
+o      
+o      
+o      
+o     o
+ o   o 
+  ooo  
+
+>D
+oooooo  
+ o    o 
+ o     o
+ o     o
+ o     o
+ o     o
+ o     o
+ o    o 
+oooooo  
+
+>E
+oooooo 
+ o   o 
+ o     
+ o  o  
+ oooo  
+ o  o  
+ o     
+ o    o
+oooooo 
+
+>F  # diff from E
+oooooo
+ o   o
+ o    
+ o  o 
+ oooo 
+ o  o 
+ o    
+ o    
+ooo.
+
+>G
+  ooo o 
+ o   oo 
+o     o 
+o       
+o    ooo
+o     o 
+o     o 
+ o    o 
+  oooo  
+
+>H
+ooo  ooo
+ o    o 
+ o    o 
+ o    o 
+ oooooo 
+ o    o 
+ o    o 
+ o    o 
+ooo  ooo
+
+
+>I  # diff from M, P, H
+.ooo.
+..o..
+ .o. 
+ .o. 
+ .o. 
+ .o. 
+ .o. 
+ .o. 
+ ooo.
+
+>J
+ ooo
+  o
+  o
+  o
+  o
+  o
+  o
+o.o
+oo
+
+>K
+ooo  ooo
+ o   o  
+ o  o   
+ o o    
+ oo     
+ o o    
+ o  o   
+ o   o  
+ooo  ooo
+
+>K(2)
+ooo  ooo
+ o   o  
+ o   o  
+ o  o   
+ ooo    
+ o o    
+ o  o   
+ o   o  
+ooo  ooo
+
+>L
+ooo.   
+ o     
+ o     
+ o     
+ o     
+ o     
+ o     
+ o    o
+oooooo 
+
+>M
+ooo     ooo
+ oo     oo 
+ o o   o o 
+ o o   o o 
+ o  o o  o 
+ o  o o  o 
+ o  o o  o 
+ o   o   o 
+ooo  o  ooo
+
+>N
+oo   ooo
+ o    o 
+ oo   o 
+ o o  o 
+ o  o o 
+ o  o o 
+ o   oo 
+ o    o 
+ooo   o 
+
+>O
+  oooo  
+ o    o 
+o      o
+o      o
+o      o
+o      o
+o      o
+ o    o 
+  oooo  
+
+>P  # diff from B, R
+ooooo 
+ o   o
+ o   o
+ o   o
+ oooo 
+ o  .. 
+ o    
+ o    
+ooo.   
+
+>R
+ooooo   
+ o   o  
+ o   o  
+ o   o  
+ oooo   
+ o  o   
+ o  o   
+ o   o  
+ooo   oo
+
+>S
+ oooo
+o   o
+o    
+ o   
+  oo 
+    o
+    o
+o   o
+oooo 
+
+>T
+ooooooo
+o  o  o
+   o   
+   o   
+   o   
+   o   
+   o   
+   o   
+  ooo  
+
+>U
+ooo  ooo
+ o    o 
+ o    o 
+ o    o 
+ o    o 
+ o    o 
+ o    o 
+ o    o 
+  oooo  
+
+>V
+ooo ooo
+ o   o 
+ o   o 
+ o   o 
+  o o  
+  o o  
+  o o  
+   o   
+   o   
+
+> W
+ooo ooo ooo
+ o   o   o 
+ o   o   o 
+ o   o  o  
+  o o o o  
+  o o o o  
+  oo  oo   
+   o   o   
+   o   o  
+
+>X
+ooo  ooo
+ o    o 
+  o  o  
+   oo   
+    o   
+   oo   
+  o  o  
+ o    o 
+ooo  ooo
+
+>Y
+ooo  ooo
+ o    o 
+  o  o  
+  o o   
+  o o   
+   o    
+   o    
+   o    
+  ooo   
+
+>Z
+oooooo
+o   o 
+   o  
+   o  
+  o   
+ o    
+o    o
+o    o
+oooooo
+
+>0
+ ooo 
+o   o
+o   o
+o   o
+o   o
+o   o
+o   o
+o   o
+ ooo 
+
+>1  # diff from M,
+ .o 
+,oo,
+  o 
+  o 
+  o 
+  o 
+  o 
+  o 
+ ooo
+
+>2
+ ooo 
+o   o
+    o
+    o
+    o
+   o 
+  o  
+ o  o
+ooooo
+
+>3
+ ooo 
+o   o
+    o
+   o 
+  oo 
+    o
+    o
+    o
+oooo 
+
+>4
+    o 
+   oo 
+   oo 
+  o o 
+ o  o 
+o   o 
+oooooo
+    o 
+    o 
+
+>4(2)
+    o 
+   oo 
+  o o 
+  o o 
+ o  o 
+o   o 
+oooooo
+    o 
+    o 
+
+>5
+  ooo
+ o   
+ oo  
+   o 
+    o
+    o
+    o
+   o 
+ooo  
+
+>6
+   oo
+  o  
+ o   
+o oo 
+oo  o
+o   o
+o   o
+o   o
+ ooo 
+
+>7
+ oooo
+o   o
+    o
+   o 
+   o 
+   o 
+   o 
+  o  
+  o  
+
+>8
+ ooo 
+o   o
+o   o
+ o o 
+  o  
+ o o 
+o   o
+o   o
+ ooo 
+
+>9
+ ooo 
+o   o
+o   o
+o   o
+o   o
+ oooo
+   o 
+  o  
+oo   
+
+>alpha
+ oo o 
+o  oo 
+o  o  
+o  o  
+o  o o
+ oo oo
+
+>beta
+ ooo 
+o   o
+o   o
+o oo 
+o   o
+o   o
+o   o
+o   o
+oooo 
+o    
+o    
+o    
+
+>gamma
+oo   o
+  o  o
+  o o 
+  o o 
+  oo  
+  o   
+ o    
+ o    
+
+> gamma(2)  # another gamma
+oo  o
+ o o
+ o o
+ o o
+  o
+  o
+ o
+ o
+ o
+
+>epsilon
+oooo
+o   
+ oo 
+o   
+o   
+ ooo
+
+> kappa
+ o  oo
+oo o
+ oo
+ oo
+ o o
+ o  oo
+
+> delta
+ oooo
+ o  o
+ o
+  oo 
+ oo o
+o   o
+o   o
+o   o
+ ooo
+
+>(
+  o
+ o 
+ o 
+o  
+o  
+o  
+o  
+o  
+ o 
+ o 
+  o
+
+>)
+o  
+ o 
+ o 
+  o
+  o
+  o
+  o
+  o
+ o 
+ o 
+o  
+
+>1(s)
+ .
+oo.
+ o 
+ o 
+ o 
+ o 
+ o 
+ooo
+
+>2(s)
+ oo 
+o  o
+   o
+   o
+  o 
+ o o
+oooo
+
+>3(s)
+ooo 
+   o
+  o 
+ oo 
+   o
+   o
+ooo 
+
+>q(s)
+ oooo 
+o   o 
+o   o 
+o   o 
+ oooo 
+    o 
+   ooo
+
+>positive_u
+   o         
+   o         
+   o   oo oo 
+ooooooo o  o 
+   o    o  o 
+   o    o  o 
+   o    o  o 
+         oooo
+
+>positive_p
+   o         
+   o         
+   o   oo oo 
+ooooooo oo  o
+   o    o   o
+   o    o   o
+   o    o   o
+        oooo 
+        o    
+        o    
+       ooo   
+
+>positive_p(2)
+   o         
+   o         
+   o   oo oo 
+ooooooo oo  o
+   o    o   o
+   o    o   o
+   o    oo  o
+        o oo 
+        o    
+        o    
+       ooo   
+
+>positive_p(3)
+       ooooo 
+   o    o   o
+   o    o   o
+   o    o   o
+ooooooo oooo 
+   o    o    
+   o    o    
+   o    o    
+       ooo   
+
+>negative_p
+    oo oo 
+     oo  o
+     o   o
+ooo  o   o
+     oo  o
+     o oo 
+     o    
+     o    
+    ooo   
+
+>negative_p(2)
+    oo oo 
+     oo  o
+     o   o
+ooo  o   o
+     o   o
+     oooo 
+     o    
+     o    
+    ooo   
+
+>-  # dash
+.....
+.ooo.
+.....
+
+######### end
+
+>+
+  ,
+  o  
+  o  
+ooooo
+  o  
+  o  
+  ,
+
+>/
+  .
+  o
+  o
+ o 
+ o 
+ o 
+ o 
+ o 
+o  
+o  
+.
+
+>/(2)  # diff from W, y
+ ...
+ ,o,
+  o
+ o 
+ o 
+ o 
+o  
+o  
+.
+
+#j
+#
+#J
+#
+#Q
+
+> ?
+ oo 
+o  o
+o  o
+   o
+  o
+ o
+ o
+ .
+ o 
+
+> arrowhead
+ooooo
+ooooo
+ooooo
+ooooo
+ooooo
+
+> circle
+  ooooo 
+ oo   oo
+oo     oo
+o       o
+o       o
+o       o
+oo     oo
+ oo   oo
+  ooooo
+
+> &
+   ooo
+  o  o
+  o o
+  oo  oo
+ oo   o
+o  o o
+o  oo
+o   o   o
+ ooo ooo
+
+> horizontal_line2
+oooooooooooooooooooooooooooooooooooooooooo
+oooooooooooooooooooooooooooooooooooooooooo
+
+> vertical_line2
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+oo
+
+> bold_L
+oooo
+ oo
+ oo
+ oo
+ oo
+ oo
+ oo   o
+ oo  oo
+ooooooo
+
+> bold_u
+ooo oo
+ oo oo
+ oo oo
+ oo oo
+ oo oo
+  ooooo
+
+> bold_m
+ooooo oo
+ oo oo oo
+ oo oo oo
+ oo oo oo
+ oo oo oo
+ooo oo ooo
+
+> bold_i
+ oo
+ oo
+ ..
+ooo
+ oo
+ oo
+ oo
+ oo
+oooo
+
+> bold_n
+ooooo
+ oo oo
+ oo oo
+ oo oo
+ oo oo
+ooo ooo
+
+> bold_l
+ooo
+ oo
+ oo
+ oo
+ oo
+ oo
+ oo
+ oo
+oooo
+
+> bold_A
+    o
+   oo
+   oo
+  o oo
+  o oo
+  oooo
+ o   oo
+ o   oo
+ooo oooo
+
+> bold_B
+oooooo
+ oo  oo
+ oo  oo
+ oo  oo
+ ooooo
+ oo  oo
+ oo  oo
+ oo  oo
+oooooo
+
+> bold_H
+oooo oooo
+ oo   oo
+ oo   oo
+ oo   oo
+ ooooooo
+ oo   oo
+ oo   oo
+ oo   oo
+oooo oooo
+
+> bold_E
+oooooo
+ oo  o
+ oo
+ oo o
+ oooo
+ oo o
+ oo
+ oo  o
+oooooo
+
+> bold_R
+oooooo
+ oo  oo
+ oo  oo
+ oo  oo
+ oooo
+ oo oo
+ oo oo
+ oo  oo
+oooo ooo
+
+> bold_two
+ ooo
+ oooo
+o  oo
+   oo
+   o
+  o
+ o
+ oooo
+ooooo
+
+> bold_k
+ooo
+ oo
+ oo
+ oo ooo
+ oo o
+ oooo
+ oo oo
+ oo oo
+ooo ooo
+
+> bold_g
+ ooooo
+oo oo
+oo oo
+ ooo
+o
+ooooo
+oooooo
+o    o
+ oooo
+
+> bold_v
+oo oo
+oo o
+oo o
+oo o
+ oo
+ oo
+
+> bold_C
+  ooo o
+ oo  oo
+oo    o
+oo
+oo
+oo
+oo
+ oo   o
+  oooo
+
+> bold_w
+ooo oo oo
+ oo oo o
+ oo oo o
+  oo oo
+  oo oo
+  oo oo
+
+> bold_W
+ooo oooo ooo
+ oo  oo   o
+ oo  oo  o
+  oo ooo o
+  oo ooo o
+  oo o o o
+   oo  oo
+   oo  oo
+   oo  oo
+
+   > bold_G
+  ooo o
+ oo  oo
+oo    o
+oo
+oo
+oo  oooo
+oo   oo
+ oo  oo
+  oooo
+
+> bold_I
+ooo
+ oo
+ oo
+ oo
+ oo
+ oo
+ oo
+ oo
+oooo
+
+> bold_t
+  o
+  o
+oooo
+ oo
+ oo
+ oo
+ oo
+ ooo
+
+> bold_a
+ ooo
+oo oo
+  ooo
+ o oo
+oo oo
+ ooooo
+
+> bold_e
+ ooo
+oo oo
+ooooo
+oo
+oo  o
+ ooo
+
+> bold_d
+  ooo
+   oo
+   oo
+ oooo
+oo oo
+oo oo
+oo oo
+oo oo
+ ooooo
+
+> bold_c
+ ooo
+oo o
+oo
+oo
+oo o
+ oo
+
+> bold_o
+ ooo
+oo oo
+oo oo
+oo oo
+oo oo
+ ooo
+
+> bold_N
+ooo   ooo
+ ooo   o
+ o oo  o
+ o  oo o
+ o  oo o
+ o   ooo
+ o    oo
+ o    oo
+ooo    o
+
+> bold_s
+ ooo
+oo o
+ooo
+ ooo
+o oo
+ooo
+
+> bold_y
+ooo oo
+ oo o
+ oo o
+  oo
+  oo
+   o
+  o
+o o
+oo
+
+> bold_h
+ooo
+ oo
+ oo
+ oooo
+ oo oo
+ oo oo
+ oo oo
+ oo oo
+ooo ooo
+
+> bold_p
+ooooo
+ oo oo
+ oo oo
+ oo oo
+ oo oo
+ oooo
+ oo
+ oo
+oooo
+
+> bold_r
+ooooo
+ oo o
+ oo
+ oo
+ oo
+oooo
+
+> bold_b
+ooo
+ oo
+ oo
+ oooo
+ oo oo
+ oo oo
+ oo oo
+ oo oo
+ o oo
+
+> bold_f
+  ooo
+ oo o
+ oo
+oooo
+ oo
+ oo
+ oo
+ oo
+oooo
+
+> bold_W(1)
+ooo oooo ooo
+ oo  oo   o
+ oo  oo  o
+  oo ooo o
+  oo ooo o
+  oo o o o
+   oo  oo
+   oo  oo
+   oo  oo
+
+> bold_g(1)
+ ooooo
+oo oo
+oo oo
+ ooo
+o
+ooooo
+oooooo
+o    o
+ oooo
+
+> bold_power2
+ oo
+o oo
+  oo
+  o
+ oo
+ o
+oooo
+
+> bold_left_bracket
+   o
+  o
+ oo
+oo
+oo
+oo
+oo
+oo
+ o
+  o
+   o
+
+> bold_right_bracket
+o
+ o
+ oo
+  oo
+  oo
+  oo
+  oo
+  oo
+ oo
+ o
+o
+
+> bold_P
+oooooo
+ oo  oo
+ oo  oo
+ oo  oo
+ ooooo
+ oo
+ oo
+ oo
+oooo
+
+> hollow_arrow
+   oo
+   o o
+  o  o
+  o  o
+ o    o
+ o    o
+ o     o
+oooooooo
+
+> hollow_arrow(2)
+oo
+o oo
+o   ooo
+o      oo
+o      oo
+o    oo
+o ooo
+oo
+
+> hollow_arrow(3)
+oooooooo
+o      o
+ o    o
+ o    o
+  o   o
+  o  o
+  o  o
+   oo
+   oo
+    o
+
+> hollow_arrow(4)
+     oo   
+    o o
+   o  o
+ oo   o
+oo     o
+  o    o
+   oo  o
+     o o
+      oo
+        o
+
+> hollow_arrow(5)
+       o
+    oooo
+  oo   o
+oo     o
+o      o
+ ooo   o
+    oo o
+      oo
+
+> hollow_arrow(6)
+       ooo
+     oo oo
+   oo   o
+ oo     o
+oo     o
+  o    o
+   o   o
+   oooo
+  o   o
+
+
+
+
+> EOF
